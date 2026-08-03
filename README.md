@@ -1,10 +1,10 @@
-# **Vrinda Store Data Analysis Report**
+# **Store Data Analysis Report**
 
 ## **Overview**
 This project presents a comprehensive analysis of Vrinda Store’s sales and profit data. The goal is to identify monthly trends, category performance, and customer behavior patterns to support data-driven decision-making.
 
 ## **Data Sources**
-- **Vrinda Store Data Analysis.xlsx**
+- **Store Data Analysis.xlsx**
   - **Monthly profit/loss** (January–December)
   - **Category-wise performance** (Clothing, Electronics, Furniture, etc.)
   - **Payment mode distribution** (Credit Card, Debit Card, COD, UPI, EMI)
